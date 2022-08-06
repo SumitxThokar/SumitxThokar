@@ -5,4 +5,3 @@ I have deep interest in Data Science and currently harnessing my skills. I have 
 - Linkedin: www.linkedin.com/in/sumit-thokar
 - Discord username: SumitxThokar#8304
 - Email: sumitxthokar@gmail.com
-- 
