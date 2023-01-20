@@ -1,10 +1,9 @@
 ## Sumit Thokar-@SumitxThokar                       
-👋 Hi, I’m Sumit Thokar. I am a data science practitioner, Machine learning, Deep learning, AI enthusiast. I am currently studying Bachelor of Science in Computer Science and Information Technology in Kathmandu, Nepal. 
+👋 Hi, I’m a student of Bachelor of Science in Computer Science and Information Technology, I am a dedicated and ambitious learner with a strong passion for technology and its applications. An AI enthusiast and data analysis hobbyist, I am consistently expanding their knowledge and skills in machine learning and artificial intelligence.
 <br>
 
 ## Skill:
-Programming language: C, Python, C++.
-
+Programming language: C, Python, C++.<br>
 Technologies: Numpy, Pandas, Matplotlib, Scipy, Scikit-learn, Seaborn.
 
 ### 💬: Get in touch
