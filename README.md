@@ -5,7 +5,7 @@
 - 👯 I’m looking forward to collaborate.
 - 🥅 2023 Goals: More Projects, Continue Learning everyday.
 <div>
-<a href="https://app.daily.dev/SumitxT"><img src="https://api.daily.dev/devcards/f9d6e5f5d65848ca97d62f5ca42107a6.png?r=wz8" width="400" alt="Sumit Thokar's Dev Card"/></a>
+<a href="https://app.daily.dev/SumitxT"><img align='right' src="https://api.daily.dev/devcards/f9d6e5f5d65848ca97d62f5ca42107a6.png?r=wz8" width="200" alt="Sumit Thokar's Dev Card"/></a>
   </div>
 ## Language and Technologies
 - **Programming Languages:** Python, C, C++.
