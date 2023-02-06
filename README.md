@@ -1,5 +1,9 @@
 ## Sumit Thokar-@SumitxThokar                       
 👋 Hi, I’m a student of Bachelor of Science in Computer Science and Information Technology, I am a dedicated and ambitious learner with a strong passion for technology and its applications.<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitxThokar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitxthokar" /> </p>
+
+
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking forward to collaborate.
 - 🥅 2023 Goals: More Projects, Continue Learning everyday.
