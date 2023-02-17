@@ -1,5 +1,5 @@
 ## Sumit Thokar-@SumitxThokar                       
-👋 Hi, I’m a student of Bachelor of Science in Computer Science and Information Technology, I am a dedicated and ambitious learner with a strong passion for technology and its applications.<br>
+👋 Yo, I’m a student of Bachelor of Science in Computer Science and Information Technology, a dedicated and ambitious learner with a strong passion for technology and its applications.<br>
 
 
 - 🌱 I’m currently learning Machine Learning.
