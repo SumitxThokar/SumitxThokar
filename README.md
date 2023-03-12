@@ -1,5 +1,5 @@
 ## Sumit Thokar-@SumitxThokar                       
-👋 Yo, I’m a student of Bachelor of Science in Computer Science and Information Technology, a dedicated and ambitious learner with a strong passion for technology and its applications.<br>
+👋 Yo, I'm Sumit Thokar, a machine learning practitioner, I can teach computers to learn from data better than Yoda taught Luke to use the force.<br>
 
 
 - 🌱 I’m currently learning Machine Learning.
