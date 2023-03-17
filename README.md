@@ -19,5 +19,4 @@
 <a href="https://www.linkedin.com/in/sumit-thokar/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/SumitxThokar"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40"></a>
 |--|--|
 
-![stats](https://github-readme-stats.vercel.app/api?username=SumitxThokar&show_icons=true&theme=midnight-purple)
 
