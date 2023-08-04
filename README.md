@@ -1,5 +1,5 @@
 ## Sumit Thokar-@SumitxThokar                       
-👋 Yo, I'm Sumit Thokar, a machine learning practitioner, I can teach computers to learn from data better than Yoda taught Luke to use the force.( I try) <br>
+👋 Yo, I'm Sumit Thokar, a machine learning practitioner, I can teach computers to learn from data better than Yoda taught Luke to use the force. (I try) <br>
 
 
 - 🌱 I’m currently learning Machine Learning.
