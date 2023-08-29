@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking forward to collaborate.
-- 🥅 2023 Goals: More Projects, Continue Learning everyday.
+- 🥅 2023 Goals: Learning.
 <div>
 <a href="https://app.daily.dev/SumitxT"><img align="right" src="https://api.daily.dev/devcards/f9d6e5f5d65848ca97d62f5ca42107a6.png?r=kp1" width="200" alt="Sumit Thokar's Dev Card"/></a>
   </div>
