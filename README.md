@@ -11,7 +11,7 @@
 ## Language and Technologies
 - **Programming Languages:** Python, C, C++.
 - **Big Data and Machine Learning:** Python (eg. numpy, pandas, matplotlib, scikit-learn, seaborn), Tensorflow, Pytorch
-- **Data Science and Miscellaneous Technologies:** Data science pipeline(Collecting, wrangling, visualization, modeling, interpretation), Statistics, SQL, OOP, APIs, Excel, Power BI.
+- **Data Science and Miscellaneous Technologies:** Data science Pipeline, Statistics, RDBMS, Vector Databases, Langchain, OOP, APIs, Excel, Power BI, Flask, FastAPI.
 
 
 ### 💬: Get in touch
