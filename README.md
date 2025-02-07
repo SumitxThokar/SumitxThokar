@@ -1,17 +1,9 @@
 ## Sumit Thokar-@SumitxThokar                       
 👋 Yo, I'm Sumit Thokar, a machine learning practitioner, I can teach computers to learn from data better than Yoda taught Luke to use the force. (I try) <br>
 
-
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking forward to collaborate.
 <div>
 <a href="https://app.daily.dev/SumitxT"><img align="right" src="https://api.daily.dev/devcards/f9d6e5f5d65848ca97d62f5ca42107a6.png?r=kp1" width="200" alt="Sumit Thokar's Dev Card"/></a>
   </div>
-
-## Language and Technologies
-- **Programming Languages:** Python, C, C++.
-- **Big Data and Machine Learning:** Python (eg. numpy, pandas, matplotlib, scikit-learn, seaborn), Tensorflow, Pytorch
-- **Data Science and Miscellaneous Technologies:** Data science Pipeline, Statistics, RDBMS, Vector Databases, Langchain, OOP, APIs, Excel, Power BI, Flask, FastAPI.
 
 
 ### 💬: Get in touch
